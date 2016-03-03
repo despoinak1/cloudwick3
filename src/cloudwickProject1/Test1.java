@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package cloudwickProject1;
+
+/**
+ * @author desp
+ *
+ */
+public class Test1 {
+	
+	   public static void main(String[] args) { 
+		   System.out.println("Hello, World");
+	   }
+		
+}
